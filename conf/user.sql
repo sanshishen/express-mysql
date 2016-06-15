@@ -4,4 +4,4 @@ create table `user`(
     `name` varchar(30),
     `age` tinyint(4),
     primary key (`id`)
-) engine=MyISAM default charset=utf-8;
+) engine=MyISAM default charset=utf8;
